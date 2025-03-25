@@ -1,19 +1,215 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Macchu</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Macchu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Mar 2025 12:44:26 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 25 Mar 2025 12:44:26 +0800</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residency Log #4</title>
+      <link>http://localhost:1313/posts/2021/07/2021-07-11-residency-log-4/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021/07/2021-07-11-residency-log-4/</guid>
+      <description>&lt;p&gt;Senior year.&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;d think at this point, we&amp;rsquo;d be having it easy, as it appeared our seniors have had it easy then.&lt;/p&gt;&#xA;&lt;p&gt;As much as I would like to entertain their, &amp;ldquo;once you become seniors, you would understand&amp;rdquo; spiels then, let me enumerate some things that has changed since our junior years.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;COVID&lt;/li&gt;&#xA;&lt;li&gt;Surge of neurosurgery cases&lt;/li&gt;&#xA;&lt;li&gt;Surge of pediatric (neonate) cases&lt;/li&gt;&#xA;&lt;li&gt;Surge of elective-emergencies&lt;/li&gt;&#xA;&lt;li&gt;Surge of Class IV patients&lt;/li&gt;&#xA;&lt;li&gt;Pain Rotation&lt;/li&gt;&#xA;&lt;li&gt;Intensive Care Unit Rotation&lt;/li&gt;&#xA;&lt;li&gt;Out Patient Department Operations&lt;/li&gt;&#xA;&lt;li&gt;Out Patient Department Clinic&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;And we&amp;rsquo;re all expected to juggle these with a very limited amount of manpower?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residency Log #3</title>
+      <link>http://localhost:1313/posts/2021/01/2021-01-06-residency-log-3/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021/01/2021-01-06-residency-log-3/</guid>
+      <description>&lt;p&gt;How long has it been?&lt;/p&gt;&#xA;&lt;p&gt;What compels me to write?&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s usually an emotion. Usually on the negative side. Not saying that joy is not a motivator to write, just that it happens so rarely these days.&lt;/p&gt;&#xA;&lt;p&gt;About to go into my third year of residency training. You would think it gets easier as you progress. You couldn&amp;rsquo;t be any more wrong. While &lt;em&gt;most&lt;/em&gt; problems of being a junior are abolished, they are replaced by a rabid army of new problems, ready to bark and bite at any given time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scratchpad #2</title>
+      <link>http://localhost:1313/posts/2019/08/2019-08-11-scratchpad-2/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/08/2019-08-11-scratchpad-2/</guid>
+      <description>&lt;p&gt;Going out with old friends in your mid to late 20&amp;rsquo;s belongs to one of the simpler joys of life. What with all of many other friends who are going on with their lives, some staying withing the confines of our vicinity, while others, going thousands of miles away.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a breath of fresh air to converse with familiar people, those with whom you&amp;rsquo;ve shared a lot of history and life&amp;rsquo;s trials, both the mundane and extraordinary with. There&amp;rsquo;s a sense of nostalgia as we tell stories from our childhood, and the same time we walk about how we are at the present, and our plans for the future. Adulting is a difficult task, and our responsibilities to our loved ones, the decisions we have to make, and the sacrifices that must be done are all but a shared struggle we each have. It&amp;rsquo;s nice having to share these thoughts with these people, and perhaps, in our own ways, be able to help each other out, even if it&amp;rsquo;s as little an action as listening.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residency Log #2</title>
+      <link>http://localhost:1313/posts/2019/08/2019-08-08-residency-log-2/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/08/2019-08-08-residency-log-2/</guid>
+      <description>&lt;p&gt;Our out of touch seniors.&lt;/p&gt;&#xA;&lt;p&gt;As if they haven&amp;rsquo;t been through what we are going through.&lt;/p&gt;&#xA;&lt;p&gt;As if they have no idea how fast paced the work in the OR is.&lt;/p&gt;&#xA;&lt;p&gt;As if they&amp;rsquo;re oblivious to how many meals, and how much sleep is lost during our tour of duty.&lt;/p&gt;&#xA;&lt;p&gt;Implementing new rules are okay, as long as they make sense, as long as they improve the efficiency of our work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scratchpad #1</title>
+      <link>http://localhost:1313/posts/2019/07/2019-07-30-scratchpad-1/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/07/2019-07-30-scratchpad-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/59984092_450126029129588_1737213992335572992_o.jpg&#34; alt=&#34;59984092_450126029129588_1737213992335572992_o&#34;&gt;//Work.&lt;/p&gt;&#xA;&lt;p&gt;I have been doing that all this time. Now is the time to rest.&lt;/p&gt;&#xA;&lt;p&gt;//No, work doesn&amp;rsquo;t end at the hospital. You know that better than I do.&lt;/p&gt;&#xA;&lt;p&gt;Yes. There are cases to log, reports to finish, papers and deadlines. But may I please take this time to rest?&lt;/p&gt;&#xA;&lt;p&gt;//Sure. We both know what you would do anyway. Succumb to that feeling of tiredness. Do your work when under extreme pressure to finish. That&amp;rsquo;s how you survived this far, right?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residency Log #1</title>
+      <link>http://localhost:1313/posts/2019/07/2019-07-05-residency-log-1/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/07/2019-07-05-residency-log-1/</guid>
+      <description>&lt;p&gt;Five months in.&lt;/p&gt;&#xA;&lt;p&gt;After the extended pre-residency period, I have been accepted in my residency program of choice. A choice made with the knowledge that this would help me grow into becoming the physician I aspire to be. That I may be properly equipped once I&amp;rsquo;ve set sail in career &amp;ldquo;in the real world&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;And what better place is there on this side of the world other than the feared regional hospital?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Greetings</title>
+      <link>http://localhost:1313/posts/2019/04/2019-04-08-our-greetings/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/04/2019-04-08-our-greetings/</guid>
+      <description>&lt;p&gt;Perhaps it&amp;rsquo;s one of the most basic, and also the most reasonable ways of greeting someone.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Hey! How have you been doing?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Been doing okay, thanks!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Really?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Pause. At this moment I consider, is this person here for trivialties of greeting, or do I take the challenge of the question with sincerity?&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m really not sure if I am okay. I am tired most of the time. I do not get enough sleep. I do not eat at consistent times of the day, perhaps not even eating consistently. It&amp;rsquo;s almost always too many, or too less. I am trying to make my way into the adult world, but my career choice makes it exponentially difficult. Perhaps the regret of becoming a doctor will be a constant part of my life, how ungrateful, isn&amp;rsquo;t it? So many people aspire to be part of this &lt;em&gt;noble&lt;/em&gt; profession, and yet here I am, complaining about it. I do have options, and my choice of training right now, though still toxic, and still takes up a lot of time, is relatively better compared to other specialty training programs. I could choose to be a general practitioner, to take the year off, to moonlight, but I don&amp;rsquo;t know. My mindset is that my suffering now will eventually pay off later, instead of living a good life now, but knowing that later on, I would have to go through this sufferring still. Might as well start sooner, and get it over with sooner, right?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pre Residency Log #2</title>
+      <link>http://localhost:1313/posts/2019/02/2019-02-16-pre-residency-log-2/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/02/2019-02-16-pre-residency-log-2/</guid>
+      <description>&lt;p&gt;Seniority.&lt;/p&gt;&#xA;&lt;p&gt;Perhaps it was too presumptuous to think that anesthesia is not as bad as the other clinical departments when it comes to the toxic seniority culture and the juniors get the most work and scutwork. What I do find odd in my current state is that it is not the most senior who are the gravest practitioners of this culture, no, it&amp;rsquo;s the least-senior of the seniors, in my case - the resident who started 2 months - that&amp;rsquo;s right 2 months ahead of us. For what normally is 1 year of absolute junior-ship, this person was quickly elevated to a senior and for some reason, despite all of us being 1st year residents, this person no longer does the intense scutwork a junior does and is quick to give orders and pass work around.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pre-Residency Log</title>
+      <link>http://localhost:1313/posts/2018/12/2018-12-09-pre-residency-log/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/12/2018-12-09-pre-residency-log/</guid>
+      <description>&lt;p&gt;I suppose the time is ripe for writing, as it rarely comes by these days. This is not for the lack of things to write about.&lt;/p&gt;&#xA;&lt;p&gt;I am a month into our pre-residency period for Anesthesiology. I must admit, among the less major reasons why I chose this specialization is the overall better quality of life as compared to others. Surely, this has been the case as some of the strongest and smartest people I know of are struggling with their chosen specializations, some of whom have quit, or are seriously contemplating quitting. I have mentioned it time and time again, but I&amp;rsquo;ll say it again, it is ironic that the people who work in the profession who care for others&amp;rsquo; health tend to take care of themselves less in the pursuit of their career. I had hoped not to fall into this pit, but I would be lying if I said I am in perfect  health, for reasons not about the inhumane workload and hours. This is whining, I suppose, but I also would avoid being ungrateful, because, as mentioned, in comparison to the other specialties, who would not go home for dies, my chosen field would be, or should appear, rather benign.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On &#34;Softening&#34; the Blow</title>
+      <link>http://localhost:1313/posts/2018/10/2018-10-21-on-softening-the-blow/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/10/2018-10-21-on-softening-the-blow/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/truth.png&#34; alt=&#34;Truth.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anesth Tea</title>
+      <link>http://localhost:1313/posts/2018/10/2018-10-18-anesth-tea/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/10/2018-10-18-anesth-tea/</guid>
+      <description>&lt;p&gt;If you want to get stronger, be honest with yourself. Honestly speaking though, I think I&amp;rsquo;m a piece of shit.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/5m15idk.png&#34; alt=&#34;5M15IDk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;And before you say, &amp;ldquo;nawww, I know you, this is just some play of self-pity, you&amp;rsquo;re really a decent person.&amp;rdquo; And to that, I say thank you, but I really am being honest when I say that. I do procrastinate still, and a lot, and spent most of my time wasting said precious time. The worst part is I am well aware of what I&amp;rsquo;m doing (or not doing).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ramblings #1</title>
+      <link>http://localhost:1313/posts/2018/09/2018-09-17-ramblings-1/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/09/2018-09-17-ramblings-1/</guid>
+      <description>&lt;p&gt;Today is the 17th of September.&lt;/p&gt;&#xA;&lt;p&gt;Supposedly, this would be the day after the Physicians Licensure Exam for this September. Turns out the weather has other plans and the forces of nature do not abide by man-made schedules. I&amp;rsquo;m still glad the PRC made the call, albeit somewhat of a buzzer beater, postponing the board examinations have saved some of the lives of would-be life savers.&lt;/p&gt;&#xA;&lt;p&gt;I am ambivalent towards the past few weeks, composed of the final stretch of board exam preparations, and the first half of the board exam itself. The atmosphere in the dormitory I live in is often heavy, with thoughts of everything we have laid years, almost a decade so far, of study for at the whims of a series of 100-item exams.  We staved away our anxieties, minimizing the damage that may befall upon us via failing, by cramming on our various materials, or in my case, sleeping for most of the day.  I&amp;rsquo;ve been called out for my lack of a sense of care for the boards, and I must admit, I am guilty as charged, but I am not devoid of care for it. Just that I see no benefit of being overly stressed out about it. I do worry that this would be easily be mistranslated as overconfidence or arrogance, but my mindset is I do what I want, what I deem would be &amp;ldquo;high-yield&amp;rdquo;, choose which materials to study, to finish, go with it, take the exams, if I must pass, then I will, but if I should fail, it would give me sadness, but I know that it is not the end of the world. Sure, our licenses to practice are at stake here, but I trust that we were guided well enough during our years of studying medicine, and that we have developed, adapted (or maladapted) the skills needed in order to pass these exams, and if not, then good thing you can take the board exams more than once.  Very likely I am talking from a position of privilege, it must be easy to say, oh, he has a backup plan, or is not under pressure from family, or from his school, etc. etc., and I would not deny that. I trust my family would be supportive enough to understand if I fail, and if not, I am responsible enough to deal with my failure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exceptional Excerpts - The Time Keeper by Mitch Albom</title>
+      <link>http://localhost:1313/posts/2018/08/2018-08-21-exceptional-excerpts-the-time-keeper-by-mitch-albom/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/08/2018-08-21-exceptional-excerpts-the-time-keeper-by-mitch-albom/</guid>
+      <description>&lt;p&gt;It is never to late or too soon. It is when it is supposed to be.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;You were one person,&amp;rdquo; the old man said. &amp;ldquo;And you changed the world.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Only God can write the end of your story.&amp;rdquo; &amp;ldquo;God has left me alone,&amp;rdquo; Dor said. The old man shook his head. &amp;ldquo;You were never alone.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Remember this always: There is a reason God limits man&amp;rsquo;s days.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, when you are not getting the love you want, giving makes you think you will.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Word</title>
+      <link>http://localhost:1313/posts/2018/08/2018-08-21-word/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/08/2018-08-21-word/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/11046885_997261933619076_1976111420596574064_n.jpg&#34; alt=&#34;11046885_997261933619076_1976111420596574064_n&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Internet People</title>
+      <link>http://localhost:1313/posts/2018/07/2018-07-28-internet-people/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/07/2018-07-28-internet-people/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/img_1665.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;from https://xkcd.com&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Obstacles</title>
+      <link>http://localhost:1313/posts/2018/07/2018-07-28-57/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/07/2018-07-28-57/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/img_6765-png.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>No one Knows You Like They Know You</title>
+      <link>http://localhost:1313/posts/2018/07/2018-07-21-noone-knows-you-like-they-know-you/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/07/2018-07-21-noone-knows-you-like-they-know-you/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=4SU8gxrhs1g&#34;&gt;http://www.youtube.com/watch?v=4SU8gxrhs1g&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a song commemorating all those old friends we have, and how there&amp;rsquo;s nobody else quite like them. How despite being adults, we would always treasure those moments when we spent most of our days together, and how even though we have changed in the biggest of ways, there are parts of us that haven&amp;rsquo;t changed at all.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Can you take me back when we were kids Who weren&amp;rsquo;t scared of getting older? &amp;lsquo;Cause no one knows you like they know you And no one probably ever will&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>?</title>
+      <link>http://localhost:1313/posts/2018/07/2018-07-20-49/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018/07/2018-07-20-49/</guid>
+      <description>&lt;p&gt;At an unstable place Knowing nothing is certain but you know, there are a few things that make us feel secure, safe, comfortable Sure, the excitement of the venturing in the unknown exists But man, it&amp;rsquo;s been two decades The boards coming, a few weeks then a few days Maybe then, stability will hit like a hammer Knowing where you will be where you would belong for a while, a long while Where you&amp;rsquo;ll come to stay, at least for a while A checkpoint, the base for the next act, A Bastion beyond the Bastion but right now, still here in an unstable place, where anything goes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Excerpt from Every Day</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-featured-content/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-featured-content/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/img_5385.png&#34; alt=&#34;IMG_5385&#34;&gt;This one is taken from the remnants of the trusted iPad that lasted the entirety of medschool. It no longer works. What pains me the most are the eBooks I&amp;rsquo;ve read and my bookmarks and highlights. *sigh*&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World! (Again)</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I always thought it&amp;rsquo;s hard to make new friends, but making enemies, I guess that&amp;rsquo;s easy.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&amp;hellip;Is a totally random quote I took from an indie game I played. I have but one purpose in making this blog, I guess you can call this my ultimatum, for all my failed attempts at creating a blog, and all the projects I had involving a few bright people which turned to dust. Having an idea is easy. Committing to it, an entirely different and difficult thing. Still, being hardheaded is sort of my thing, and there are ideas I never can abandon, despite the constant motion and chaos that goes in this semi-functional brain of mine. A blog, or at least an online repository of my cerebral vomit, belongs in that list. I would say I was most successful (or least-failed?) during the year 2013-2014 when a site called the7thheart was born, and was functional for a while. It was a solo site, and there were, at most, five visitors, I think, but man did it thrive. Course I archived its contents to an excruciating amount of files, and reading back my thoughts at the time rekindled my ever-variable desire to write. So here it is, for one last time, and, I guess we&amp;rsquo;ll see how it goes. &lt;em&gt;Ad astra per aspera.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Friendship</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title-2/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title-2/</guid>
+      <description>&lt;p&gt;I feel like I&amp;rsquo;ve lost a few friends along the way. Well, &lt;em&gt;losing&lt;/em&gt; isn&amp;rsquo;t the exact word for it. My grandfather told me to be more precise when it comes to using words. It pays to read widely every once in a while or as often as we could. No it&amp;rsquo;s not loss. It&amp;rsquo;s the distance, and the good and the bad the comes with it But I do believe people come in our lives to help us grow, and for those moments that they are here we have to be grateful and when we grow apart we must remain grateful New friends will arrive, for sure but as the song goes, &lt;em&gt;nothing beats old friends.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sunset at the Antidote</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-suntidote/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-suntidote/</guid>
+      <description>&lt;p&gt;Sometimes, all you need to do is stop, find the highest place you can climb, look for the view, and take it in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wag Mong Ipilit ang Tugma ni Ma. Cecilia C. de la Rosa</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title-3/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title-3/</guid>
+      <description>&lt;p&gt;Hayaan mong kumilos ang iyong tula ayon sa sarili nyang pandama Magmamalay siya sa harurot ng traysikel na maagang mamamasada o sa panawaagn ng barangay tungkol sa mga bagong patakaran sa basura. Ganoon kapangit na mga tunog ang maaring gumising sa kanya, ngunit hayaan mo siyang bumangon. Hayaan mo siyang bumangon mag-isa.&lt;/p&gt;&#xA;&lt;p&gt;Magtitimpla siya ng kanyang kape, magluluto ng inyong almusal Maghintay ka lang, tiyak naman siyang magyayaya, &amp;ldquo;Tara, kain tayo.&amp;rdquo; Saka mo lamang siya sasabayang amuyin ang kape, ang tostadong bawang sa sinangag, ang tuyo, ang sawsawang suka&amp;rsquo;t sili. Hayaan mo siyang ipaghain ka, kahit minsan lang. At dahil minsan lang, abusuhin mo na. Abusuhin mo ng masid ang bawat kilos - ang pitik, ang bikas, ang liksi sapgkat oo, naiinip din naman, o nag-iisip din ang tula.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/_drafts/id-75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/_drafts/id-75/</guid>
+      <description>&lt;p&gt;Iluklok kung sino ang sumusporta sa mahirap At dahil para sa mahirap, panatilihing mahirap Panatilihing maledukado, payak kung mag-isip, mababaw na kritiko Walang interes magsaliksik, sabik. Sabik ilabas ang laman ng utak mula sa limang minutong pagbabasa ng balita na nagkukunwaring balita. Sabik magliyab ang damdamin sa mga komplikadong talutuntuning kinahaharap ng bansa Sila, na may sagot sa mga kanser ng lipunang ilang tumagal pa Na may solusyon sa mga problema ng pamamahala Sa ilang henerasyon ng kabataan, parehong kabataan na tinukoy ni Gat Jose Rizal Nasaan na sila? Tila nakita na ang pag-asa ay lumipat na sa ibang bansa&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[L]etter of Resignation</title>
+      <link>http://localhost:1313/posts/_drafts/id-117/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/_drafts/id-117/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Draft</title>
+      <link>http://localhost:1313/posts/_drafts/id-90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/_drafts/id-90/</guid>
+      <description>&lt;p&gt;Alas tres ng hapon ng ako&amp;rsquo;y gisingin ng pagkatok sa yero ____ dingding Gumuhit ang ngiti sa aking labi Habang ako&amp;rsquo;y dahan dahan na tumayo Upang mag init ng tubig Binuksan ang bintana Nag imbita sa malamig na ihip ng hangin na may dalang kaunting tubig Kinuha ang aking lumang kuwaderno At pumunit ng isang pahina sa likurang bahagi nito Inayos ito upoang maging perpekton parisukat Tumiklop sa ilang bahagi hanggang maging tatsulok Inilatag ang bangkang papel sa kanal na karaniwa&amp;rsquo;y tuyo Liban sa mga araw ng paglalaba Kung saan ito&amp;rsquo;y napupuno ng tubig na may halong puting bula Pinanood ko habang binabaybay ng bangka ang kanal Hanggang hindi ko na makita, hindi ko alam ang kahihitnan nito Hindi. Alam ko nga naman. Ilang bangkang papel na ang aking ginawa. Ilang bagyo ang dumaan Nung una&amp;rsquo;y ako&amp;rsquo;y _____, ngunit di nagtagal ay ako&amp;rsquo;y natuto Sa larangan ng pagtupi, sa tamang pagsukat Isang bangkang walang kapitan, di na kailangan nito Ito&amp;rsquo;s nasa awa lamang ng lakas ng hangin at pagpatak ng ulan Kahit na alam kong sa huli ito&amp;rsquo;y magiging ___ lamang Di ko ipagyayamot ang  tuwa sa panonood dito mula sa aking bintana Uminom ng mainit na tsokolate At nagbalik sa aking munting kama, Alas kwatro ng hapon ng ako&amp;rsquo;y patulugin Ng paghele ng ulan, at ng pag iisip sa mga barkong _____&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exceptional Excerpts: The Name of the Wind</title>
+      <link>http://localhost:1313/posts/_drafts/id-91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/_drafts/id-91/</guid>
+      <description>&lt;p&gt;Kote was a long while in answering. &amp;ldquo;I tend to think too much, Bast. My greatest successes came from decision I made when I stopped thinking and simply did what felt right. Even if there was no good explanation for what I did.&amp;rdquo; He smiled wistfully. &amp;ldquo;Even if there were very good reasons for me &lt;em&gt;not&lt;/em&gt; to do what I did.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Kote shrugged. &amp;ldquo;My grandpa always told me that fall&amp;rsquo;s the time to root up something you don&amp;rsquo;t want coming back to trouble you.&amp;rdquo; Kote mimicked the quaver of an old man&amp;rsquo;s voice. &amp;ldquo;Things are too full of life in the spring months. In the summer, they&amp;rsquo;re too strong and won&amp;rsquo;t let go. Autumn&amp;hellip;&amp;rdquo; He looked around at the changing leaves on the trees. &amp;ldquo;Autumn&amp;rsquo;s the time. In autumn everything is tired and ready to die.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residency Log #3</title>
+      <link>http://localhost:1313/posts/_drafts/id-119/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/_drafts/id-119/</guid>
+      <description>&lt;p&gt;This feels as close to a vacation as I could get.&lt;/p&gt;&#xA;&lt;p&gt;I am currently in quarantine after a continuous 7-day duty as part of our hospital&amp;rsquo;s Covid-Response Team. It&amp;rsquo;s been ten days since we have been swabbed, and it seems that our initial swab, which was sent to a laboratory in Manila for testing, instead made its way to oblivion. We will be having a repeat swab tomorrow, which will be tested at our base hospital, as it has recently opened its molecular laboratory.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

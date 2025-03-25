@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on Macchu</title>
+    <link>http://localhost:1313/tags/featured/</link>
+    <description>Recent content in Featured on Macchu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excerpt from Every Day</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-featured-content/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-featured-content/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/img_5385.png&#34; alt=&#34;IMG_5385&#34;&gt;This one is taken from the remnants of the trusted iPad that lasted the entirety of medschool. It no longer works. What pains me the most are the eBooks I&amp;rsquo;ve read and my bookmarks and highlights. *sigh*&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sunset at the Antidote</title>
+      <link>http://localhost:1313/posts/2016/10/2016-10-19-suntidote/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2016/10/2016-10-19-suntidote/</guid>
+      <description>&lt;p&gt;Sometimes, all you need to do is stop, find the highest place you can climb, look for the view, and take it in.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

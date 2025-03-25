@@ -1,0 +1,6 @@
+---
+title: "Draft"
+draft: true
+---
+
+Alas tres ng hapon ng ako'y gisingin ng pagkatok sa yero \_\_\_\_ dingding Gumuhit ang ngiti sa aking labi Habang ako'y dahan dahan na tumayo Upang mag init ng tubig Binuksan ang bintana Nag imbita sa malamig na ihip ng hangin na may dalang kaunting tubig Kinuha ang aking lumang kuwaderno At pumunit ng isang pahina sa likurang bahagi nito Inayos ito upoang maging perpekton parisukat Tumiklop sa ilang bahagi hanggang maging tatsulok Inilatag ang bangkang papel sa kanal na karaniwa'y tuyo Liban sa mga araw ng paglalaba Kung saan ito'y napupuno ng tubig na may halong puting bula Pinanood ko habang binabaybay ng bangka ang kanal Hanggang hindi ko na makita, hindi ko alam ang kahihitnan nito Hindi. Alam ko nga naman. Ilang bangkang papel na ang aking ginawa. Ilang bagyo ang dumaan Nung una'y ako'y \_\_\_\_\_, ngunit di nagtagal ay ako'y natuto Sa larangan ng pagtupi, sa tamang pagsukat Isang bangkang walang kapitan, di na kailangan nito Ito's nasa awa lamang ng lakas ng hangin at pagpatak ng ulan Kahit na alam kong sa huli ito'y magiging \_\_\_ lamang Di ko ipagyayamot ang  tuwa sa panonood dito mula sa aking bintana Uminom ng mainit na tsokolate At nagbalik sa aking munting kama, Alas kwatro ng hapon ng ako'y patulugin Ng paghele ng ulan, at ng pag iisip sa mga barkong \_\_\_\_\_

@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://macchu.me/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Macchu'
 theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+site_logo = "Images/logo.png"

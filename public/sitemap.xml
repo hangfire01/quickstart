@@ -2,17 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-25T12:44:26+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2025-03-25T12:44:26+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-25T12:44:26+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/posts/2021/07/2021-07-11-residency-log-4/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/posts/2021/01/2021-01-06-residency-log-3/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2019/08/2019-08-11-scratchpad-2/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2019/08/2019-08-08-residency-log-2/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2019/07/2019-07-30-scratchpad-1/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2019/07/2019-07-05-residency-log-1/</loc>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2019/04/2019-04-08-our-greetings/</loc>
+    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2019/02/2019-02-16-pre-residency-log-2/</loc>
+    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/12/2018-12-09-pre-residency-log/</loc>
+    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/10/2018-10-21-on-softening-the-blow/</loc>
+    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/10/2018-10-18-anesth-tea/</loc>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/09/2018-09-17-ramblings-1/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/08/2018-08-21-exceptional-excerpts-the-time-keeper-by-mitch-albom/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/08/2018-08-21-word/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/07/2018-07-28-internet-people/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/07/2018-07-28-57/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/07/2018-07-21-noone-knows-you-like-they-know-you/</loc>
+    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2018/07/2018-07-20-49/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/2016/10/2016-10-19-about/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/2016/10/2016-10-19-contact/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2016/10/2016-10-19-featured-content/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/featured/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title-2/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2016/10/2016-10-19-suntidote/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2016/10/2016-10-19-blog-post-title-3/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/_drafts/id-75/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/_drafts/id-117/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/_drafts/id-90/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/_drafts/id-91/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/_drafts/id-119/</loc>
   </url>
 </urlset>
