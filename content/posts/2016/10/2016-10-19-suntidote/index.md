@@ -1,0 +1,8 @@
+---
+title: "Sunset at the Antidote"
+date: 2016-10-19
+tags: 
+  - "featured"
+---
+
+Sometimes, all you need to do is stop, find the highest place you can climb, look for the view, and take it in.
